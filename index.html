@@ -24,6 +24,11 @@
             /* Example glow effect - might look good on the new image */
              box-shadow: 0 0 25px 8px rgba(255, 165, 0, 0.4); /* Example orange glow */
         }
+        .hero-background {
+            background-image: url('background1.png'); /* Assuming .jpg, adjust if needed */
+            background-size: cover;
+            background-position: center;
+        }
     </style>
 </head>
 <body class="bg-gray-50 text-gray-800">
@@ -58,7 +63,7 @@
         </div>
     </nav>
 
-    <section class="bg-gradient-to-r from-cyan-500 to-cyan-700 text-white py-20 md:py-32">
+    <section class="hero-background text-white py-20 md:py-32">
         <div class="container mx-auto px-6 text-center">
             <h1 class="text-4xl md:text-6xl font-bold mb-4 leading-tight">Unleash the Husky Intelligence!</h1>
             <p class="text-lg md:text-xl mb-8 text-cyan-100">Kovu AI ($KOVU): The smartest Siberian Husky meme coin harnessing AI for community fun and blockchain growth.</p>
