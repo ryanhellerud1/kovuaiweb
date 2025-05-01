@@ -1,0 +1,36 @@
+{
+  "kovu_ai": {
+    "tokenomics": {
+      "total_supply": "999.3 Million KOVU",
+      "blockchain": "Solana",
+      "contract_address": "Acud16jqA9j1Hc83JrHYeiN2BpK8LYYQ1h6FGnYrpump"
+    },
+    "team": [
+      {
+        "name": "CTO",
+        "role": "Chief Technology Officer",
+        "image": "team/LEADER.jpg"
+      },
+      {
+        "name": "Memeologist",
+        "role": "Meme Strategy Director",
+        "image": "team/memeologist.jpg"
+      }
+    ],
+    "community": {
+      "telegram": "https://t.me/Kovu_Meme_Coin",
+      "x": "https://x.com/kovupupai"
+    },
+    "roadmap": {
+      "phase_1": [
+        "CTO Take Over",
+        "X ai integration @kovupupai",
+        "Website Launch V1"
+      ],
+      "phase_2": [
+        "Website V2 with AI Features",
+        "Partnerships & Collaborations"
+      ]
+    }
+  }
+}
